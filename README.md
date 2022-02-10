@@ -1,9 +1,8 @@
 # DevStorm
 ## About Me
 ```
-(Real) Name: *Private Info*
-UserName: DevStorm
+User Name: DevStorm
 Age: 15
-Job: Student / Developer, Desinger
-My knowed coding types: JavaScript / Python / HTML5 / CSS
+My know script types: JavaScript / Pyhton / HTML / CSS
+Developer Level: Student
 ```
